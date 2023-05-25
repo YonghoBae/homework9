@@ -39,7 +39,7 @@ int main()
 	Node* head = NULL;
 	Node* ptr = NULL;	/* temp */
 
-	printf("[----- [Yongho Bae] [2020039008] -----]\n");
+	printf("[----- [Yongho Bae] [2020039008] -----]\n");/*commit2*/
 
 	do{
 		printf("\n\n");
